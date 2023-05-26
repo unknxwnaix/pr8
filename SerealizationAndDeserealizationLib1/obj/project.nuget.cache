@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ht51RVZGUM5H7WvQFAa9/AGKW2bkmeDwWThC0XmUFxf4J9jHGziLnvoqfgnFsgKDGEEIvdVZPF0cO0eodtTAYg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aiX\\Desktop\\pr8-master (1)\\pr8-master\\SerealizationAndDeserealizationLib1\\SerealizationAndDeserealizationLib1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aiX\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

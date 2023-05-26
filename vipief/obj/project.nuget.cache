@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "73LXDHfZzt1pfk2f8ttQOslI9c5dVP+JKgcB8i/8+2/QwX0dR81SJi4KSf+7nY8iHJ2dCBxR8S2soDpHzm0SKg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aiX\\Desktop\\pr8-master (1)\\pr8-master\\vipief\\vipief.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aiX\\.nuget\\packages\\materialdesigncolors\\2.1.2\\materialdesigncolors.2.1.2.nupkg.sha512",
+    "C:\\Users\\aiX\\.nuget\\packages\\materialdesignthemes\\4.8.0\\materialdesignthemes.4.8.0.nupkg.sha512",
+    "C:\\Users\\aiX\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512",
+    "C:\\Users\\aiX\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

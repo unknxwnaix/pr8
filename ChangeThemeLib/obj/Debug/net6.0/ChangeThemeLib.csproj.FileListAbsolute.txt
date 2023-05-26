@@ -1,0 +1,15 @@
+\\Mac\Home\Desktop\pr8-master (1)\pr8-master\ChangeThemeLib\bin\Debug\net6.0\ChangeThemeLib.deps.json
+\\Mac\Home\Desktop\pr8-master (1)\pr8-master\ChangeThemeLib\bin\Debug\net6.0\ChangeThemeLib.dll
+\\Mac\Home\Desktop\pr8-master (1)\pr8-master\ChangeThemeLib\bin\Debug\net6.0\ChangeThemeLib.pdb
+\\Mac\Home\Desktop\pr8-master (1)\pr8-master\ChangeThemeLib\obj\Debug\net6.0\ChangeThemeLib.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\pr8-master (1)\pr8-master\ChangeThemeLib\obj\Debug\net6.0\ChangeThemeLib.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\pr8-master (1)\pr8-master\ChangeThemeLib\obj\Debug\net6.0\Resources\OrangeTheme.xaml.g.cs
+\\Mac\Home\Desktop\pr8-master (1)\pr8-master\ChangeThemeLib\obj\Debug\net6.0\Resources\PurpleTheme.xaml.g.cs
+\\Mac\Home\Desktop\pr8-master (1)\pr8-master\ChangeThemeLib\obj\Debug\net6.0\ChangeThemeLib.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\pr8-master (1)\pr8-master\ChangeThemeLib\obj\Debug\net6.0\ChangeThemeLib.AssemblyInfo.cs
+\\Mac\Home\Desktop\pr8-master (1)\pr8-master\ChangeThemeLib\obj\Debug\net6.0\ChangeThemeLib.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\pr8-master (1)\pr8-master\ChangeThemeLib\obj\Debug\net6.0\XamlC.stamp
+\\Mac\Home\Desktop\pr8-master (1)\pr8-master\ChangeThemeLib\obj\Debug\net6.0\ChangeThemeLib.dll
+\\Mac\Home\Desktop\pr8-master (1)\pr8-master\ChangeThemeLib\obj\Debug\net6.0\refint\ChangeThemeLib.dll
+\\Mac\Home\Desktop\pr8-master (1)\pr8-master\ChangeThemeLib\obj\Debug\net6.0\ChangeThemeLib.pdb
+\\Mac\Home\Desktop\pr8-master (1)\pr8-master\ChangeThemeLib\obj\Debug\net6.0\ref\ChangeThemeLib.dll

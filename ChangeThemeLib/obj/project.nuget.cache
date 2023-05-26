@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OMw13axbxrn9uuHxl91MTfrgG/AkVH4ROjqdrfFdevdQJQdFA7s26Z0jh59K85RXgFF+2YCTs54rRcn0Xx8Lug==",
+  "success": true,
+  "projectFilePath": "\\\\Mac\\Home\\Desktop\\pr8-master (1)\\pr8-master\\ChangeThemeLib\\ChangeThemeLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aix\\.nuget\\packages\\xamarin.forms\\5.0.0.2578\\xamarin.forms.5.0.0.2578.nupkg.sha512"
+  ],
+  "logs": []
+}
